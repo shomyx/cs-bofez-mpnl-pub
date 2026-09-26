@@ -27966,8 +27966,8 @@ $.a8.toString
 s=2
 return A.m(B.oq.CQ(b),$async$Ms)
 case 2:q=d
-if(q!=="bofez-app-prod")throw A.f(new A.Pv("bofez-app-prod",q))
-A.bbN().$1("Bofez Firebase environment: production; project: "+A.k(q))
+if(q!=="bofez-app-dev")throw A.f(new A.Pv("bofez-app-dev",q))
+A.bbN().$1("Bofez Firebase environment: development; project: "+A.k(q))
 s=3
 return A.m(B.Fv.Ko(a),$async$Ms)
 case 3:s=4
@@ -106726,7 +106726,7 @@ B.C=new A.I(0,0,0,0,B.f)
 B.aj=new A.I(1,0.9725490196078431,0.9803921568627451,0.9882352941176471,B.f)
 B.Zb=new A.b7(null,null,null,null)
 B.DM=new A.AK(null,B.C,B.aj,0,B.Zb,null)
-B.a9u=new A.a6J(3,"production")
+B.a9u=new A.a6J(1,"development")
 B.kg=new A.AL(0,"exit")
 B.nU=new A.AL(1,"cancel")
 B.dp=new A.jM(0,"detached")
@@ -107702,7 +107702,7 @@ B.cD=new A.rp(0,"none")
 B.qi=new A.rp(1,"low")
 B.cd=new A.rp(2,"medium")
 B.fA=new A.rp(3,"high")
-B.Ms=new A.wz("AIzaSyCOp0tBhr2vBJSdfOWS86Yk-4Xt2QV8WtQ","1:459207473882:web:24ec2bbd2970d6136103e3","459207473882","bofez-app-prod","bofez-app-prod.firebaseapp.com",null,"bofez-app-prod.firebasestorage.app",null,null,null,null,null,null,null)
+B.Ms=new A.wz("AIzaSyD7iQISbEX2tSo-_gjExbZsRbT89heEZSo","1:152415471063:web:2289e902947554efcdb792","152415471063","bofez-app-dev","bofez-app-dev.firebaseapp.com",null,"bofez-app-dev.firebasestorage.app",null,null,null,null,null,null,null)
 B.M=new A.B(0,0)
 B.Mt=new A.Px(B.M,B.M)
 B.em=new A.Py(1,"loose")
