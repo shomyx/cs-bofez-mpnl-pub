@@ -1141,6 +1141,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 --------------------------------------------------------------------------------
 async
+cli_util
 collection
 mime
 stream_channel
@@ -1953,6 +1954,7 @@ shared_preferences_android
 shared_preferences_foundation
 shared_preferences_platform_interface
 vector_graphics
+vector_graphics_codec
 vector_graphics_compiler
 vector_math
 
@@ -5718,7 +5720,6 @@ plugin_platform_interface
 shared_preferences_linux
 shared_preferences_web
 shared_preferences_windows
-vector_graphics_codec
 xdg_directories
 
 Copyright 2013 The Flutter Authors. All rights reserved.
